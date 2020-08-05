@@ -26,7 +26,7 @@ La solución debe cumplir con los siguientes requisitos:
 
 -----------------------------
 
-## Ejercicio 2 (Nivel Jr):
+## Ejercicio 2 (Nivel Trainee):
 Ingresar el nombre y apellido de un alumno y sus notas de matemática, literatura y física.
 Se pide imprimir el nombre, el apellido y el promedio.
 Si el promedio es mayor a 6 entonces debe aparecer un cartel que diga "Aprobado". Caso contrario, si tiene menos de 4 puntos imprimir "Insuficiente" y si tiene entre 4 y 5.99999 imprimir "A recuperatorio".
@@ -63,7 +63,7 @@ Cuestionario copado: http://www.etnassoft.com/2011/05/24/cuestionario-para-autoe
 -----------------------------
 
 # Ejercicio 4 (Nivel Jr):
-Crea un método llamado "flip" que:⁠
+Crea un método que:⁠
 · si recibe 0, devuelva 1.⁠
 · si recibe 1, devuelva 0.⁠
 ⁠
@@ -75,18 +75,22 @@ No puedes usar condicionales con if, ternarias, operadores lógicos ni bitwise.
 Dados dos calendarios de dos personas diferentes, crear una función que devuelva el horario en que ambos estan libres para poder tener una reunión.
 A tener en cuenta:
 Cada persona indica su horario de ingreso y egreso, no pudiendo nunca tener una reunión antes de su ingreso ni despues de su egreso.
+Todos los horarios informados estan en forma de Array.
+Puede suponer que los calendarios estan ordenados.
+El horario de final y inicio de la siguiente reunión puede ser el mismo.
+La reunión debe tener un tiempo mínimo de 1 hora libre.
 
 Ejemplo
 Persona A:
-Horario de trabajo: 8.00 a 17.00
-Día: 8.30 - 9.30 REUNIÓN | 10.30 - 12 REUNIÓN | 14 - 15.30 REUNIÓN | 16 - 17 REUNIÓN
+Horario de trabajo: [8:00 - 17:00]
+Día: [8:30 - 9:30] | [10:30 - 12:00] | [14:00 - 15:30] | [16:00 - 17:00]
 
 Persona B:
-Horario de trabajo: 7.00 a 16
-Día: 8 - 9 REUNIÓN | 11 - 13 REUNIÓN | 14 - 14.30 REUNIÓN
+Horario de trabajo: [7:00 - 16:00]
+Día: [8:00 - 9:00] | [11:00 - 13:00] | [14:00 - 14.30]
 
 RESULTADO:
-Horas libres para ambos: 9.30 - 10.30 | 13 - 14 | 14.30 - 16
+Horas libres para ambos: [9.30 - 10.30] | [13:00 - 14:00] | [14:30 - 16:00]
 
 -----------------------------
 
@@ -105,4 +109,24 @@ ababa, aba => 2
 # Ejercicio 8 (Nivel SSR):
 Crea una función que reciba por parametro un string y devuelva ese mismo string con la ultima letra ubicada en la primera posición y en mayuscula.
 Ejemplo:
-Poroto => Oorotp
+Poroto => Oporot
+Cangrejo => Ocangrej
+
+-----------------------------
+
+# Ejercicio 9 (Nivel SSR):
+1) Crear un canvas en un HTML de tamaño 200 x 200.
+2) Crear una función en JavaScript que partiendo del punto 100, 100 cree una linea que se mueva con las flechas del teclado.
+
+-----------------------------
+
+# Ejercicio 10 (Nivel SSR):
+Crear una función que dado un array numerico  devuelva la primera y ultima posición donde un mismo numero se repite.
+Ejemplo:
+[1, 2, 10, 5, 7, 1, 2, 5, 8, 4, 10, 1, 2, 7, 6, 5]
+2 => 1 - 11
+5 => 3 - 14
+1 => 0 - 10
+10 => 2 - 10
+
+-----------------------------
