@@ -130,3 +130,20 @@ Ejemplo:
 10 => 2 - 10
 
 -----------------------------
+
+# Ejercicio 11 (Nivel SSR - SR):
+Crear una función que reciba como parámetro un string y devuelva otro string que cumpla con los siguientes puntos.
+A = @
+E = 3
+I = 1
+O = 0
+U = V
+Además, la letra siguiente a una vocal debe estar en mayúscula.
+Ejemplo:
+Imput       |   Output 
+Fernando    |   F3Rn@Nd0
+Luciano     |   LVC1@N0
+Yamila      |   Y@M1L@
+
+-----------------------------
+
