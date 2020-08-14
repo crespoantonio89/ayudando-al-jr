@@ -122,22 +122,23 @@ Cangrejo => Ocangrej
 # Ejercicio 10 (Nivel SSR):
 Crear una función que dado un array numerico  devuelva la primera y ultima posición donde un mismo numero se repite.
 Ejemplo:
-[1, 2, 10, 5, 7, 1, 2, 5, 8, 4, 10, 1, 2, 7, 6, 5]
-2 => 1 - 11
-5 => 3 - 14
-1 => 0 - 10
-10 => 2 - 10
+<br>
+[1, 2, 10, 5, 7, 1, 2, 5, 8, 4, 10, 1, 2, 7, 6, 5]<br>
+2 => 1 - 11<br>
+5 => 3 - 14<br>
+1 => 0 - 10<br>
+10 => 2 - 10<br>
 
 -----------------------------
 
 # Ejercicio 11 (Nivel SSR - SR):
-Crear una función que reciba como parámetro un string y devuelva otro string que cumpla con los siguientes puntos.
-A = @
-E = 3
-I = 1
-O = 0
-U = V
-Además, la letra siguiente a una vocal debe estar en mayúscula.
+Crear una función que reciba como parámetro un string y devuelva otro string que cumpla con los siguientes puntos.<br>
+A = @<br>
+E = 3<br>
+I = 1<br>
+O = 0<br>
+U = V<br>
+Además, la letra siguiente a una vocal debe estar en mayúscula.<br>
 <br>
 Ejemplo:
 |Imput       |   Output |
