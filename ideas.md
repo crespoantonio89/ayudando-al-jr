@@ -138,6 +138,7 @@ I = 1
 O = 0
 U = V
 Además, la letra siguiente a una vocal debe estar en mayúscula.
+<br>
 Ejemplo:
 Imput       |   Output 
 Fernando    |   F3Rn@Nd0
