@@ -141,9 +141,10 @@ Además, la letra siguiente a una vocal debe estar en mayúscula.
 <br>
 Ejemplo:
 |Imput       |   Output |
-|Fernando    |   F3Rn@Nd0|
-|Luciano     |   LVC1@N0|
-|Yamila      |   Y@M1L@|
+|--|--|
+|Fernando    |   F3Rn@Nd0
+|Luciano     |   LVC1@N0
+|Yamila      |   Y@M1L@
 
 -----------------------------
 
