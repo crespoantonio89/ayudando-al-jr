@@ -185,12 +185,12 @@ Pensemos en un telefono viejo. Si recordamos el teclado se veía algo así:
 	
 		    	 0
        
-Se solicite que creé un método, que reciba dos parámetros, un número (como string) y un arreglo de strings. El mismo debe determinar que palabras dentro del arreglo string se pueden formar con los numeros ingresados como primer parámetro.
-Ej: 
-number: "3662277"
-words : ["foo", "bar", "baz", "foobar", "emo", "cap", "car", "cat"]
+Se solicite que creé un método, que reciba dos parámetros, un número (como string) y un arreglo de strings. El mismo debe determinar que palabras dentro del arreglo string se pueden formar con los numeros ingresados como primer parámetro.<br>
+Ej:<br> 
+number: "3662277"<br>
+words : ["foo", "bar", "baz", "foobar", "emo", "cap", "car", "cat"]<br>
 
-Output: ["bar", "cap", "car", "emo", "foo", "foobar"]
+Output: ["bar", "cap", "car", "emo", "foo", "foobar"]<br>
 
 
 
