@@ -148,4 +148,25 @@ Ejemplo:
 |Yamila      |   Y@M1L@
 
 -----------------------------
+# Ejercicio 12 (Nivel Jr - SSR)
+Crear una función que reciba dos números como parámetros y los multiplique sin utilizar el operador multiplicación. Tener en cuenta que los números pasados pueden ser positivos o negativos.
+
+-----------------------------
+# Ejercicio 13 (Nivel Jr).
+Crear una función que devuelva el número más grande un arreglo iterando una sola vez por él.
+
+-----------------------------
+# Ejercicio 14 (Nivel Jr - SSR)
+Iterando un arregla solo una vez escribir una función que elimine los undefinded, 0, null, false.
+
+-----------------------------
+# Ejercicio 15 (Nivel SSR - SR)
+Escribir una función que aplane los arreglos en un nivel.
+Ejemplo:
+arr = [[1,2], [[3,4]],[1,[]]]
+res = [1,2, [3,4],1, []]
+
+-----------------------------
+# Ejercicio 16 (Nivel SSR - SR)
+Escrbibir una función que verifique si un string es un palindromo
 
