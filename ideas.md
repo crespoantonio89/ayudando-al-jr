@@ -190,7 +190,8 @@ Ej:<br>
 number: "3662277"<br>
 words : ["foo", "bar", "baz", "foobar", "emo", "cap", "car", "cat"]<br>
 
-Output: ["bar", "cap", "car", "emo", "foo", "foobar"]<br>
+Output: ["foo", "bar", "foobar", "emo", "cap", "car"]<br>
+
 
 
 
