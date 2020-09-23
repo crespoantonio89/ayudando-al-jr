@@ -170,3 +170,24 @@ res = [1,2, [3,4],1, []]
 # Ejercicio 16 (Nivel SSR - SR)
 Escrbibir una función que verifique si un string es un palindromo
 
+-----------------------------
+# Ejercicio 17 (Nivel SR +)
+Pensemos en un telefono viejo. Si recordamos el teclado se veía algo así:
+
+   1   2   3
+      abc def
+   4   5   6
+  ghi jkl mno
+   7   8   9
+ pqrs tuv wxyz
+       0
+       
+Se solicite que creé un método, que reciba dos parámetros, un número (como string) y un arreglo de strings. El mismo debe determinar que palabras dentro del arreglo string se pueden formar con los numeros ingresados como primer parámetro.
+Ej: 
+number: "3662277"
+words : ["foo", "bar", "baz", "foobar", "emo", "cap", "car", "cat"]
+
+Output: ["bar", "cap", "car", "emo", "foo", "foobar"]
+
+
+
